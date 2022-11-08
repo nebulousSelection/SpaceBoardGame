@@ -1,0 +1,15 @@
+
+GAME RULES:
+
+- A player must have all Elements in a System before they can develop.
+- Players don’t have to develop their elements equally.
+- More than one development can be done per turn by a player.
+- Players must have 3 or more developments on their property before building a major development.
+- If you land on another players square you can be charged resources , the more developed the house is the more expensive.
+- A player can decline to accept the offer of resources when someone lands on their elements.
+- If a player doesn’t want to buy an unoccupied element other players will be offered the option to buy it for the same price.
+		
+GAME ENDING RULES:
+- If a player runs out of resources, the game ends.
+- If a player quits, the game ends.
+- If all elements are owned and fully developed, the game ends.
