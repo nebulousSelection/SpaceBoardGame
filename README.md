@@ -1,8 +1,11 @@
 # ArtemisLiteProject
-This is the shared repo for the CSC7053 Software Engineering project.  
+This is a copy of the shared repo for a space-themed boardgame developed for MSc coursework.  
 
 ### Developers:
-- Adam Sloan
-- Anna Graham
-- Charmagne Casimero
 - Jonathan Foster
+- Charmagne Casimero
+- Anna Graham
+- Adam Sloan
+
+
+
